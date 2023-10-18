@@ -1,10 +1,10 @@
 # zpd
 ### Saturs
 
-### 1. Aprakstīt spēli
+### 1. Spēles apraksts
+Interesanta spēlē kas attīsta loģiku.
+
 ### 2. Spēles loģika
-
-
 
 Dators nejauši ģenrē vienu skaitli no 1līdz 100. Tālāk, piedāvā spēlētājiem uzminēt skaitli utt.
 
@@ -47,4 +47,3 @@ while repeat:
 ```py
 
 
-### 3. Un t.t
